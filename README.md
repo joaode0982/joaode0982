@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o João Victor
 
-<!--
-**joaode0982/joaode0982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📚 Atualmente focado em aprender **Node.js** e **lógica de programação com Python**  
+💻 Apaixonado por tecnologia e desenvolvimento de software  
+🚀 Em busca de evolução constante e novos desafios
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Conhecimentos em desenvolvimento
+
+- Lógica de programação
+- Fundamentos de Node.js
+- Introdução ao Python
+
+---
+
+### 📌 Objetivos no momento
+
+- Aprofundar em Node.js 
+- Entender boas práticas e estruturação de projetos
+- Colaborar em projetos e evoluir com feedbacks
+
+---
+
+### 📫 Contato
+
+- ✉️ Email: victorferreiraaraujo9@gmail.com
+
+🛠️ Em constante construção, assim como esse perfil 😄
